@@ -1,0 +1,5 @@
+.vscode/
+target/
+*venv/
+*log*
+data/MAG-disruption
